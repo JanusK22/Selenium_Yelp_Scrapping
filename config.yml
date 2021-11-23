@@ -1,0 +1,5 @@
+method : "fast"
+base : "https://www.yelp.fr/"
+city : "Paris"
+thread : 3
+shops : "cafe"
