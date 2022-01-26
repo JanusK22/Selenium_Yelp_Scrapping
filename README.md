@@ -10,8 +10,8 @@ Fast : That will scrape with the max possible number of thearth
 
 ## Parameter :
 
-
-There are store in a Yaml file
+ 
+There are store in a Yaml file (Config)
 
 *method* : "fast" # The mode for scrapping
 
