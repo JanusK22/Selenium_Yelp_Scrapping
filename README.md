@@ -11,11 +11,13 @@ Fast : That will scrape with the max possible number of thearth
 ## Parameter :
 
  
-There are store in a Yaml file (Config)
+There are store in a Yaml file (Config) 
+
+###Exemple###
 
 *method* : "fast" # The mode for scrapping
 
-*base* : "https://www.yelp.fr/" # the website base (betweeen yelp.de , yelp.vom ...)
+*base* : "https://www.yelp.fr/" # the website base (betweeen yelp.de , yelp.com ...)
 
 *city* : "Paris" # The city
 
