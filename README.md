@@ -1,5 +1,5 @@
 # Selenium_Yelp_Scrapping
-Webscraping of Restaurant with Selenium in Yelp
+Webscraping of Shops with Selenium in Yelp
 
 
 There is 3 modes in depends of the cpu :
